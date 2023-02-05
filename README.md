@@ -6,7 +6,7 @@
 <br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/66154400/216808610-d8414f93-f4fb-47e6-abfc-ff65dfbbf67e.gif">
 
-- 💬 Ask me about **Problem solving, Web development, Python programming, Javascript programming.**
+- 💬 Ask me about **React js, MERN stack, Problem solving, Web development, Python programming, Javascript programming.**
 
 - 📫 How to reach me **mulikabhishek2605@gmail.com**
 
